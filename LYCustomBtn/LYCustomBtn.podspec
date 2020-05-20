@@ -30,9 +30,9 @@ Pod::Spec.new do |spec|
   # spec.dependency "JSONKit", "~> 1.4"
 
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  spec.source_files  = 'LYCustomBtn.h', 'LYCustomBtn.m'
   
-  spec.exclude_files = "Classes/Exclude"
+  # spec.exclude_files = "Classes/Exclude"
 
   
 
