@@ -6,12 +6,13 @@ Pod::Spec.new do |spec|
 
   spec.name         = "LYCustomBtn"
   spec.version      = "0.0.1"
-  spec.summary      = "开发中常用的工具类，方便实用"
+  spec.summary      = "开发中常用的工具类"
 
-  spec.description  = <<-DESC 开发中常用的工具类，方便实用
+  spec.description  = <<-DESC
+                   开发中常用的工具类，方便实用
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/LYCustomBtn"
+  spec.homepage     = "https://github.com/zhuzi55/LYTools"
   
 
   spec.license      = "MIT"
