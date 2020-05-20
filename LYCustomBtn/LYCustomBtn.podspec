@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   
 
   spec.name         = "LYCustomBtn"
-  spec.version      = "0.0.1"
+  spec.version      = "1.0.0"
   spec.summary      = "开发中常用的工具类"
 
   spec.description  = <<-DESC
