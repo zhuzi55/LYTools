@@ -15,7 +15,10 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/zhuzi55/LYTools"
   
 
-  # spec.license      = "MIT"
+  spec.license = { :type => 'MIT', :text => <<-LICENSE
+     Copyright PPAbner 2016-2017
+      LICENSE
+  }
   
   spec.platform     = :ios
   
