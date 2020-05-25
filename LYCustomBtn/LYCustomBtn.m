@@ -10,7 +10,7 @@
 
 @interface LYCustomBtn()
 
-//** 测试代码2314
+//** 测试代码0525
 
 @property (nonatomic, assign) float wBtn;
 @property (nonatomic, assign) float hBtn;
